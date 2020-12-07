@@ -55,7 +55,15 @@ Your app is ready to be deployed!
 Feel free to elaborate on how you would improve any of the following topics 
 
 * Code Structuring:
+--------------------
+* We can use pages, containers and reducers folder structure
 
 * Refactoring:
+--------------------------
+* We can use redux to store the data and use it in the components
 
 * Additional Features:
+--------------------------
+* We can add routing to another page for each topic node click and show the details.
+* We can add input search where we can aadd any topic to fetch the details
+* We can show more information like repository name, url and other information related to topic.
