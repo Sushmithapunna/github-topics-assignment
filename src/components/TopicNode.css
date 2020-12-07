@@ -1,0 +1,42 @@
+.topic {
+  display: flex;
+  justify-content: space-between;
+  padding: 16px;
+  border: 1px solid #ddd;
+  cursor: pointer;
+}
+
+.topic:hover {
+  background-color: #f5f5f5;
+}
+
+.topic .name {
+  font-weight: 600;
+}
+
+.topic .star-count {
+  color: #333;
+}
+
+.related-topics {
+    padding: 16px;
+    border: 1px solid #ddd;
+}
+
+.related-topics-header {
+    display: flex;
+    justify-content: space-between;
+    padding: 16px 0;
+}
+
+h3 {
+    margin: 0;
+}
+
+.close-btn {
+    border: 1px solid #F44336;
+    background-color: #F44336;
+    color: #fff;
+    font-weight: 600;
+    cursor: pointer;
+}
